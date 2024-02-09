@@ -1,0 +1,244 @@
+# depslib dependency file v1.0
+1669065983 source:c:\users\thomo\desktop\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\clientes.c
+	<stdlib.h>
+	<stdio.h>
+	"clientes.h"
+
+1669065983 c:\users\thomo\desktop\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\clientes.h
+
+1669068142 source:c:\users\thomo\desktop\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\complemento.c
+	"complemento.h"
+
+1669068142 c:\users\thomo\desktop\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\complemento.h
+	<stdio.h>
+	<stdlib.h>
+
+1669068170 source:c:\users\thomo\desktop\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\dibuja.c
+	"dibuja.h"
+
+1669068170 c:\users\thomo\desktop\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\dibuja.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668988994 source:c:\users\thomo\desktop\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+	"string.h"
+
+1668989059 c:\users\thomo\desktop\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\empleado.h
+
+1491368048 source:c:\users\thomo\desktop\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668975777 source:c:\users\thomo\desktop\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1668975777 c:\users\thomo\desktop\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\lista.h
+	"empleado.h"
+
+1669066331 source:c:\users\thomo\desktop\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\nodoarbolcliente.c
+	"nodoArbolCliente.h"
+
+1669066331 c:\users\thomo\desktop\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\nodoarbolcliente.h
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	<string.h>
+
+1669069347 source:c:\users\thomo\desktop\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\main.c
+	"gotoxy.h"
+	"cases.h"
+
+1491367494 c:\users\thomo\desktop\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\gotoxy.h
+
+1669069233 c:\users\thomo\desktop\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\cases.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"lista.h"
+	"nodoArbolCliente.h"
+	"dibuja.h"
+	"complemento.h"
+
+1669157238 source:g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\clientes.c
+	<stdlib.h>
+	<stdio.h>
+	"clientes.h"
+
+1669157224 g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\clientes.h
+
+1669155108 source:g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\complemento.c
+	"complemento.h"
+
+1669154800 g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\complemento.h
+	<stdio.h>
+	<stdlib.h>
+
+1669068170 source:g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\dibuja.c
+	"dibuja.h"
+
+1669068170 g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\dibuja.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668988994 source:g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+	"string.h"
+
+1668989059 g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\empleado.h
+
+1491368048 source:g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668975777 source:g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1668975777 g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\lista.h
+	"empleado.h"
+
+1669069341 source:g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\main.c
+	"gotoxy.h"
+	"cases.h"
+
+1491367494 g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\gotoxy.h
+
+1669162906 g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\cases.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"lista.h"
+	"nodoArbolCliente.h"
+	"dibuja.h"
+	"complemento.h"
+
+1669159527 g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\nodoarbolcliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"listaConsumos.h"
+
+1669166730 source:g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\nodoarbolcliente.c
+	"nodoArbolCliente.h"
+
+1669167509 source:g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\cases.c
+	"cases.h"
+
+1669158510 g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\listaconsumos.h
+	"consumos.h"
+
+1669159465 g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\consumos.h
+
+1669159466 source:g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	"consumos.h"
+
+1669158512 source:g:\otros ordenadores\my computer\utn\cuatri2\prog y labo\tps\tpf\tpf pasado\tpf lab 2\listaconsumos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaConsumos.h"
+
+1669167516 source:g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\cases.c
+	"cases.h"
+
+1669162914 g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\cases.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"lista.h"
+	"nodoArbolCliente.h"
+	"dibuja.h"
+	"complemento.h"
+
+1668975777 g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\lista.h
+	"empleado.h"
+
+1668989059 g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\empleado.h
+
+1669159534 g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\nodoarbolcliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"listaConsumos.h"
+
+1669157231 g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\clientes.h
+
+1669158510 g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\listaconsumos.h
+	"consumos.h"
+
+1669159465 g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\consumos.h
+
+1669068170 g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\dibuja.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1669154812 g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\complemento.h
+	<stdio.h>
+	<stdlib.h>
+
+1669157252 source:g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\clientes.c
+	<stdlib.h>
+	<stdio.h>
+	"clientes.h"
+
+1669155118 source:g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\complemento.c
+	"complemento.h"
+
+1669159466 source:g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	"consumos.h"
+
+1669068170 source:g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\dibuja.c
+	"dibuja.h"
+
+1668988994 source:g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+	"string.h"
+
+1491368048 source:g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668975777 source:g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1669158512 source:g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\listaconsumos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaConsumos.h"
+
+1669069347 source:g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\main.c
+	"gotoxy.h"
+	"cases.h"
+
+1491367494 g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\gotoxy.h
+
+1669166738 source:g:\my drive\utn\cuatri 2\prog\tpf\tpf pasado\tpf lab 2\nodoarbolcliente.c
+	"nodoArbolCliente.h"
+
